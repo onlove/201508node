@@ -6,7 +6,10 @@ var http=require('http');
 
 var person=function(request,response){
     response.write('hello');
-    response.end();
+    setTimeout(function(){
+        response.write('world');
+        response.end();
+    },5000)
 }
 
 var server=http.createServer(person);
