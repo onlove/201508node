@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a709fe07-4693-46b3-9658-2957d8c147fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/4.repl/repl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/5.global/1.global.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node201508.iws" />
@@ -24,14 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="repl.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lectures/4.repl/repl.js">
+      <file leaf-file-name="1.global.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lectures/5.global/1.global.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14685315">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.5138889">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,6 +64,7 @@
         <option value="$PROJECT_DIR$/lectures/3.http/menu.js" />
         <option value="$PROJECT_DIR$/lectures/3.http/5.server.js" />
         <option value="$PROJECT_DIR$/lectures/4.repl/repl.js" />
+        <option value="$PROJECT_DIR$/lectures/5.global/1.global.js" />
       </list>
     </option>
   </component>
@@ -77,8 +76,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="658" />
-    <option name="y" value="375" />
+    <option name="x" value="300" />
+    <option name="y" value="42" />
     <option name="width" value="1275" />
     <option name="height" value="954" />
   </component>
@@ -139,6 +138,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5.global" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -155,10 +172,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
-  <component name="RunManager" selected="Node.js.5.server.js">
-    <configuration default="false" name="2.ansync.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2.ansync.js" working-dir="$PROJECT_DIR$/lectures/2.node">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.1.global.js">
     <configuration default="false" name="2.server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2.server.js" working-dir="$PROJECT_DIR$/lectures/3.http">
       <method />
     </configuration>
@@ -169,6 +183,9 @@
       <method />
     </configuration>
     <configuration default="false" name="5.server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="5.server.js" working-dir="$PROJECT_DIR$/lectures/3.http">
+      <method />
+    </configuration>
+    <configuration default="false" name="1.global.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="1.global.js" working-dir="$PROJECT_DIR$/lectures/5.global">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -207,20 +224,20 @@
       <method />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.2.ansync.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.1.server.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.2.server.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.3.server.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.4.server.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.5.server.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.1.server.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.2.server.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.3.server.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.4.server.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.5.server.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.1.global.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.5.server.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.4.server.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.3.server.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.2.server.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.2.ansync.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.1.global.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.5.server.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.4.server.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.3.server.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.2.server.js" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +268,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="658" y="375" width="1275" height="954" extended-state="0" />
+    <frame x="300" y="42" width="1275" height="954" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15117219" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -260,7 +277,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4246231" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42085427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -421,11 +438,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures/4.repl/repl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14685315">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0979021">
+          <caret line="2" column="3" selection-start-line="1" selection-start-column="30" selection-end-line="2" selection-end-column="3" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/5.global/1.global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5138889">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
