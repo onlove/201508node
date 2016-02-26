@@ -18,3 +18,28 @@ http 80 tcp 8080 ftp 21
 1.传输手段 网络 光纤 网卡
 2.数据  二进制
 3,格式
+
+
+#一个普通网站的访问流程
+1.浏览器（其它的客户端）向服务器发送一个请求
+2.先解析域名,DNS域名解析服务器(chrome://net-internals/#dns->搜索操作系统缓存->读取本地host文件->DNS服务器)
+3.客户端通过随机端口通过HTTP三次握手，与服务器建立连接
+4.浏览器要发送http请求
+5.服务器接收到浏览器的请求，解析请求参数和路径，经过后台处理返回数数
+
+
+##URL统一资源定位符
+![url](http://)
+#请求
+请求的方法 请求的路径 协议
+> GET / HTTP/1.1
+请求头
+> User-Agent: curl/7.41.0 客户端版本
+> Host: localhost:8081 请求主机端口
+> Accept: */* 可以接收的文件类型
+
+#响应
+> HTTP/1.1 200 OK
+> Date: Fri, 26 Feb 2016 03:33:50 GMT
+> Connection: keep-alive
+> Transfer-Encoding: chunked
