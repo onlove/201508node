@@ -5,11 +5,19 @@ var http=require('http');
 //request response;
 
 var person=function(request,response){
+    //response.write('hello');
+    //setTimeout(function(){
+    //    response.write('world');
+    //    response.end();
+    //},5000);
+    console.log(request.method);
+    console.log(request.url);
+    console.log(request.headers);
+
+    response.statusCode=404;
+    response.setHeader('name','xxx');
     response.write('hello');
-    setTimeout(function(){
-        response.write('world');
-        response.end();
-    },5000)
+    response.end();
 }
 
 var server=http.createServer(person);
