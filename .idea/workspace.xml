@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a709fe07-4693-46b3-9658-2957d8c147fd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/2.node/1.callback.js" afterPath="$PROJECT_DIR$/lectures/2.node/1.callback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/3.http/http.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node201508.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,14 +56,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.callback.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1.callback.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lectures/2.node/1.callback.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18051577">
+            <state vertical-scroll-proportion="0.0">
               <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc;n#hello#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="http.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lectures/3.http/http.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.86915886">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +96,7 @@
         <option value="$PROJECT_DIR$/lectures/2.node/node基本概念.md" />
         <option value="$PROJECT_DIR$/lectures/2.node/2.ansync.js" />
         <option value="$PROJECT_DIR$/lectures/2.node/1.callback.js" />
+        <option value="$PROJECT_DIR$/lectures/3.http/http.md" />
       </list>
     </option>
   </component>
@@ -96,8 +108,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="776" />
-    <option name="y" value="325" />
+    <option name="x" value="1239" />
+    <option name="y" value="273" />
     <option name="width" value="1275" />
     <option name="height" value="722" />
   </component>
@@ -155,6 +167,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.http" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -230,7 +260,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="776" y="325" width="1275" height="722" extended-state="0" />
+    <frame x="1239" y="273" width="1275" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15117219" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -304,11 +334,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures/2.node/1.callback.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18051577">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc;n#hello#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/3.http/http.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86915886">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
