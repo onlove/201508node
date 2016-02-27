@@ -12,10 +12,12 @@ console.log(global==global.global);
 * 伪全局
 * __filename 当前模块的绝对路径
 * */
+
+/*
 console.log(global.__filename)
 console.log(__filename);
 console.log(__dirname);
-
+*/
 /*
 * precess 进程
 *   argv
@@ -31,6 +33,26 @@ console.log(__dirname);
 *   kill:[Function]
 *
 */
+
+/*
 console.log(process.argv);
 console.log(process.env.Path);
 console.log(process.pid);
+*/
+
+/*
+process.stdin.on('data',function(data){
+    process.stdout.write('read',data)
+});*/
+
+/*
+console.log(process.cwd());
+process.chdir('..');
+console.log(process.cwd());*/
+
+console.log(process.memoryUsage())
+/*
+* rss: 17473536,         常驻内存
+* heapTotal: 9275392,    堆的问题
+* heapUsed: 4050464      堆的使用量
+* */
