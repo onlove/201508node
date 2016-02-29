@@ -5,6 +5,7 @@
  * 由一个八位字节元素组成的数组
  */
 var fs=require('fs');
-fs.readFile('file.txt','utf8',function(err,data){
+//<Buffer 31 32 32 33>  十六进制
+fs.readFile('file.txt',function(err,data){
     console.log(data)
 })
