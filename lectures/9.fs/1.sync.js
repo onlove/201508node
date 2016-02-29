@@ -19,3 +19,13 @@ fs.readFile('./readfile.txt',{encoding:'utf8'},function(err,data){
         console.log(data)
     }
 });
+
+function readFile(path,options,callback){
+    setTimeout(function(){
+        if(error){
+            callback('文件不存在')
+        }else{
+            callback(null,'文件存在')
+        }
+    });
+}
