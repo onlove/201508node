@@ -20,6 +20,8 @@ var str="ABCDEFGHIGKLMNOPQRSTUVWXYZabcdefghigklmnopqrstuvwxyz0123456789+/";
 console.log(str[57]+str[56]+str[62]+str[32])
 
 */
+
+/*
 function base64(str){
     var buf=new Buffer(str),
         arr=[],
@@ -61,6 +63,6 @@ function dataTrans(str){
         result+=strObj[n];
     }
     return result+endStr
-}
+}*/
 
 console.log(base64("珠ab"))
