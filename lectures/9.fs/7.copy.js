@@ -11,10 +11,11 @@ function copy(src,dest){
     do{
         var read=fs.readSync(srcFd,buff,0,buff.length);
         fs.writeSync(destFd,buff,0,read);
-    }while()
+    }while(read==buff.length)//当讯读满8K的时候，继续续
 
 
 
     fs.closeSync(srcFd);
     fs.closeSync(destFd);
 }
+copy('read.txt','read2.txt')
