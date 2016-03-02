@@ -8,6 +8,6 @@ var fs=require('fs');
 net.createServer(function(socket){
     socket.setEncoding("utf8");
     socket.on('data',function(chunk){
-        fs.createReadStream(chuck).pipe(socket)
+        fs.createReadStream(chuck).pipe(socket  )
     })
 }).listen('8081')
