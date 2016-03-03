@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>用户注册</title>
+</head>
+<body>
+用户名:<input type="text" name="username"/>
+密码:<input type="password" name="passward"/>
+头像:<input type="file" id="avatar" multiple name="avatar"/>
+<input type="submit" type="button" value="提交" id="submit"/>
+</body>
+
+<script>
+    window.onload=function(){
+        document.getElementById("submit").addEventListener('click',function(){
+            var formdata=new FormData();
+            formdata.append('username','123');
+            var files=document.getElementById('avatar');
+            for(var i=0;i<files.length;i++){
+                formdata.append('avatar'+i,document.getElementsById("avatar").files[i])
+            }
+
+            var xhr=new XMLHttpRequest();
+            xhr.open('POST','/reg',true);
+            xhr.onload=function(){
+                if(this.status==200){
+                    var images=JSON.parse(this.responseText);
+                    for(var i=0;i<images.length;i++){
+                        var img=document.createElement('img');
+                        img.src=images[i];
+                        document.body.appendChild(img);
+                    }
+                }
+            }
+            xhr.send(formdata);
+        })
+    }
+</script>
+</html>
