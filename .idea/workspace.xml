@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a709fe07-4693-46b3-9658-2957d8c147fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/13.http/5.formidablefiles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/13.http/h5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/incoming_form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/json_parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/multipart_parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/octet_parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/formidable/lib/querystring_parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/13.http/4.formidable.js" afterPath="$PROJECT_DIR$/lectures/13.http/4.formidable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/15.http_ext/1.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/14.cookie&amp;session/1.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/14.cookie&amp;session/2.session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/15.http_ext/cache.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/15.http_ext/page.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node201508.iws" />
@@ -38,7 +27,18 @@
     <favorites_list name="node201508" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="地球和月球-new.html" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Documents/Tencent Files/505566896/FileRecv/WebGl初级分享/WebGl初级分享/demo/练习/地球/地球和月球-new.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.61538464">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,11 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lectures/5.global/2.setImmediate.js" />
-        <option value="$PROJECT_DIR$/lectures/5.global/demo.html" />
-        <option value="$PROJECT_DIR$/lectures/5.global/3.setImmediate.js" />
-        <option value="$PROJECT_DIR$/lectures/5.global/4.util.html" />
-        <option value="$PROJECT_DIR$/lectures/5.global/4.util.js" />
         <option value="$PROJECT_DIR$/lectures/5.global/6.event.js" />
         <option value="$PROJECT_DIR$/lectures/6.event/1.event.js" />
         <option value="$PROJECT_DIR$/lectures/7.module/requireHome.js" />
@@ -107,6 +102,11 @@
         <option value="$PROJECT_DIR$/lectures/13.http/4.formidable.js" />
         <option value="$PROJECT_DIR$/lectures/13.http/h5.html" />
         <option value="$PROJECT_DIR$/lectures/13.http/5.formidablefiles.js" />
+        <option value="$PROJECT_DIR$/lectures/14.cookie&amp;session/1.cookie.js" />
+        <option value="$PROJECT_DIR$/lectures/14.cookie&amp;session/2.session.js" />
+        <option value="$PROJECT_DIR$/lectures/15.http_ext/cache.md" />
+        <option value="$PROJECT_DIR$/lectures/15.http_ext/page.js" />
+        <option value="$PROJECT_DIR$/lectures/15.http_ext/1.cache.js" />
       </list>
     </option>
   </component>
@@ -118,10 +118,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="335" />
-    <option name="y" value="125" />
+    <option name="x" value="859" />
+    <option name="y" value="350" />
     <option name="width" value="1449" />
-    <option name="height" value="827" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -146,6 +146,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -164,28 +165,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node201508" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node201508" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/blog" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
@@ -201,20 +187,20 @@
       <recent name="F:\node201508\lectures\9.fs\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.5.formidablefiles.js">
-    <configuration default="false" name="1.httpserver.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="1.httpserver.js" working-dir="$PROJECT_DIR$/lectures/13.http">
-      <method />
-    </configuration>
-    <configuration default="false" name="2.httpserver.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2.httpserver.js" working-dir="$PROJECT_DIR$/lectures/13.http">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.1.cache.js">
     <configuration default="false" name="2.url.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2.url.js" working-dir="$PROJECT_DIR$/lectures/13.http">
       <method />
     </configuration>
-    <configuration default="false" name="3.httpjsonclient.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="3.httpjsonclient.js" working-dir="$PROJECT_DIR$/lectures/13.http">
+    <configuration default="false" name="5.formidablefiles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="5.formidablefiles.js" working-dir="$PROJECT_DIR$/lectures/13.http">
       <method />
     </configuration>
-    <configuration default="false" name="5.formidablefiles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="5.formidablefiles.js" working-dir="$PROJECT_DIR$/lectures/13.http">
+    <configuration default="false" name="1.cookie.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="1.cookie.js" working-dir="$PROJECT_DIR$/lectures/14.cookie&amp;session">
+      <method />
+    </configuration>
+    <configuration default="false" name="2.session.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2.session.js" working-dir="$PROJECT_DIR$/lectures/14.cookie&amp;session">
+      <method />
+    </configuration>
+    <configuration default="false" name="1.cache.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="1.cache.js" working-dir="$PROJECT_DIR$/lectures/15.http_ext">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -280,19 +266,19 @@
       <item index="3" class="java.lang.String" itemvalue="Node.js.index.js" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.1.requireHome.js" />
       <item index="5" class="java.lang.String" itemvalue="Node.js.1.server.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.1.httpserver.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.2.httpserver.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.2.url.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.3.httpjsonclient.js" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.5.formidablefiles.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.2.url.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.5.formidablefiles.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.1.cookie.js" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.2.session.js" />
+      <item index="10" class="java.lang.String" itemvalue="Node.js.1.cache.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.5.formidablefiles.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.2.url.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.3.httpjsonclient.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.2.httpserver.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.1.httpserver.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.1.cache.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.2.session.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.1.cookie.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.5.formidablefiles.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.2.url.js" />
       </list>
     </recent_temporary>
   </component>
@@ -335,27 +321,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="335" y="125" width="1449" height="827" extended-state="0" />
+    <frame x="859" y="350" width="1449" height="786" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14741318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21332389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32830188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33280253" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50547445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4713376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3139073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47384155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32791728" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3139073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -388,76 +374,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lectures/8.buffer/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/view.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.8929577">
-          <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/2.readfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/1.sync.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.706">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/3.write.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/4.base64.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.3347456">
-          <caret line="65" column="3" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/vue-dev/examples/modal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42711863">
-          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/vue-dev/examples/tree/tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3709677">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/vue-dev/examples/tree/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1423728">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/readfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lectures/9.fs/read2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -724,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/h5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21160409">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lectures/13.http/4.formidable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.94427246">
@@ -742,6 +651,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42414862">
           <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/13.http/upload/T5JCF7G9U6X2_1680x1050.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/13.http/upload/23414eb94d9c26093.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/13.http/h5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.5">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/14.cookie&amp;session/1.cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60103625">
+          <caret line="54" column="49" selection-start-line="53" selection-start-column="8" selection-end-line="54" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/14.cookie&amp;session/2.session.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/15.http_ext/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/15.http_ext/1.cache.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65488565">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/15.http_ext/cache.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18543047">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/505566896/FileRecv/WebGl初级分享/WebGl初级分享/demo/练习/3D矩形.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45053634">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/buyer/skin/member.center.v1/line.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17401668">
+          <caret line="609" column="29" selection-start-line="609" selection-start-column="29" selection-end-line="609" selection-end-column="29" />
+          <folding>
+            <marker date="1456969574363" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/505566896/FileRecv/WebGl初级分享/WebGl初级分享/demo/练习/地球/地球和月球-new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61538464">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
