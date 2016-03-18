@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="css/bootstrap.css"/>
+</head>
+<body>
+关键字<input type="text" class="form-control" id="keyword"/>
+<input type="button" value="搜索" id="search" onclick="search()"/>
+<ul class="list-group">
+
+</ul>
+<script>
+    function show(result){
+        var words=result.s;
+        var oUl=document.getElementsByClassName('list-group')[0];
+        oUl.innerHTML="";
+        oUl.addEventListener('click',function(event){
+            var val=event.target.innerHTML;
+            window.location='https://www.baidu.com/s?wd='+val+'&rsv_spt=1&rsv_iqid=0xafea0015000a848b&issp=1&f=3&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=1&rsv_sug1=1&rsv_sug7=100&rsv_sug2=1&prefixsug=a&rsp=0&inputT=3316&rsv_sug4=3315'
+        })
+        words.forEach(function(word){
+            var oLi=document.createElement('li');
+            oLi.innerHTML=word;
+            oUl.appendChild(oLi)
+        })
+    }
+
+    function search(){
+        var keyword=document.getElementById('keyword').value;
+        var url='http://suggestion.baidu.com/su?wd='+keyword+'&cb=show';
+        var script=document.createElement('script');
+        script.src=url;
+        document.body.appendChild(script);
+    }
+</script>
+
+</body>
+</html>

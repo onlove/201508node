@@ -10,8 +10,9 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ext4ended:true}));
 app.use(bodyParser.raw());
 app.use(bodyParser.text());
-app.post('/books',function(req,res){
+app.post('/ajax',function(req,res){
+    //console.log(req.query)
     console.log(req.body)
-    res.sendfile('book.json');
+    res.send('hello');
 });
 app.listen(8081);

@@ -6,5 +6,25 @@
 </head>
 <body>
 
+
+<script src="index.js"></script>
+<script>
+    //创建ajax对象
+    var x=XHR();
+
+
+    x.open('POST','/books',true);
+    x.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
+    x.overrideMimeType('text/plain');
+    x.responseType="json"
+    x.onreadystatechange=function(){
+//        console.log(x.status, x.statusText, x.responseText);
+//        console.log(x.getAllResponseHeaders());
+//        console.log(x.getResponseHeader('Connection'))
+          if(x.readyState==4&& x.status==200)
+              console.log(x.response);
+    }
+    x.send("name=zfpx&age=6");
+</script>
 </body>
 </html>

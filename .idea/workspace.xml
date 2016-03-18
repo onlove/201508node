@@ -2,11 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a709fe07-4693-46b3-9658-2957d8c147fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/15.http_ext/1.cache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/14.cookie&amp;session/1.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/14.cookie&amp;session/2.session.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/15.http_ext/cache.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/15.http_ext/page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/20.jsonp/jsop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/20.jsonp/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/20.jsonp/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/19.form/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/20.jsonp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/19.form/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/20.jsonp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lectures/19.form/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/19.form/1.index.html" afterPath="$PROJECT_DIR$/lectures/19.form/1.index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/1.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/1.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/history/12.gulpfile.js" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/history/12.gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/2.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/2.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/3.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/3.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/4.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/4.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/5.comment.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/5.comment.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/5.val.json" afterPath="$PROJECT_DIR$/lectures/17.jade/5.val.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/6.var.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/6.var.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/7.extends.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/7.extends.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/8.layout.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/8.layout.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/a.js" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/client/js/somedir/a.js" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/client/js/somedir/a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/b.js" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/b.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/18.ajax/book.json" afterPath="$PROJECT_DIR$/lectures/18.ajax/book.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/c.tmp.js" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/c.tmp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/child.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/child.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/gulpfile.js" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/head.jade" afterPath="$PROJECT_DIR$/lectures/17.jade/head.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/1.prepare/browsesync/index.html" afterPath="$PROJECT_DIR$/lectures/16.glup/1.prepare/browsesync/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/app/index.html" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/18.ajax/index.html" afterPath="$PROJECT_DIR$/lectures/18.ajax/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/18.ajax/index.js" afterPath="$PROJECT_DIR$/lectures/18.ajax/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/app/less/page.less" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/app/less/page.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/readme.md" afterPath="$PROJECT_DIR$/lectures/16.glup/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/1.prepare/sass/sass.md" afterPath="$PROJECT_DIR$/lectures/16.glup/1.prepare/sass/sass.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/18.ajax/server.js" afterPath="$PROJECT_DIR$/lectures/18.ajax/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/16.glup/2.start/script/src.js" afterPath="$PROJECT_DIR$/lectures/16.glup/2.start/script/src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lectures/17.jade/title.html" afterPath="$PROJECT_DIR$/lectures/17.jade/title.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node201508.iws" />
@@ -28,11 +62,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="地球和月球-new.html" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Documents/Tencent Files/505566896/FileRecv/WebGl初级分享/WebGl初级分享/demo/练习/地球/地球和月球-new.html">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lectures/20.jsonp/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61538464">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state vertical-scroll-proportion="-8.214286">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsop.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lectures/20.jsonp/jsop.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lectures/20.jsonp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.9">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -45,8 +96,9 @@
       <list>
         <option value="TypeScript File" />
         <option value="CSS File" />
-        <option value="Html5" />
+        <option value="Jade File" />
         <option value="JavaScript File" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -56,57 +108,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lectures/5.global/6.event.js" />
-        <option value="$PROJECT_DIR$/lectures/6.event/1.event.js" />
-        <option value="$PROJECT_DIR$/lectures/7.module/requireHome.js" />
-        <option value="$PROJECT_DIR$/lectures/7.module/1.home.js" />
-        <option value="$PROJECT_DIR$/lectures/7.module/node_modules/home.js" />
-        <option value="$PROJECT_DIR$/lectures/7.module/1.requireHome.js" />
-        <option value="$PROJECT_DIR$/lectures/7.module/2.module.js" />
-        <option value="$PROJECT_DIR$/lectures/7.module/module.md" />
-        <option value="$PROJECT_DIR$/lectures/8.buffer/2.max.js" />
-        <option value="$PROJECT_DIR$/lectures/8.buffer/1.readfile.js" />
-        <option value="$PROJECT_DIR$/lectures/8.buffer/file.txt" />
-        <option value="$PROJECT_DIR$/lectures/8.buffer/index.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/2.readfile.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/readfile.txt" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/3.write.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/4.base64.ts" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/1.sync.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/4.base64.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/read.txt" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/5.open.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/6.write.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/7.copy.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/test/fiel.txt" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/8.directory.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/src/index.css" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/9.watchfile.js" />
-        <option value="$PROJECT_DIR$/lectures/9.fs/src/index.html" />
-        <option value="$PROJECT_DIR$/lectures/10.path/1.path.js" />
-        <option value="$PROJECT_DIR$/lectures/11.stream/readme.txt" />
-        <option value="$PROJECT_DIR$/lectures/11.stream/2.write.js" />
-        <option value="$PROJECT_DIR$/lectures/11.stream/1.stream.js" />
-        <option value="$PROJECT_DIR$/lectures/11.stream/3.writesteam.js" />
-        <option value="$PROJECT_DIR$/lectures/11.stream/4.readable.js" />
-        <option value="$PROJECT_DIR$/lectures/11.stream/5.readable.js" />
-        <option value="$PROJECT_DIR$/lectures/12.tcp/1.tcp_server.js" />
-        <option value="$PROJECT_DIR$/lectures/12.tcp/2.chatserver.js" />
-        <option value="$PROJECT_DIR$/lectures/12.tcp/3.downserver.js" />
-        <option value="$PROJECT_DIR$/lectures/13.http/1.httpserver.js" />
-        <option value="$PROJECT_DIR$/lectures/13.http/reg.html" />
-        <option value="$PROJECT_DIR$/lectures/13.http/2.url.js" />
-        <option value="$PROJECT_DIR$/lectures/13.http/3.httpjsonclient.js" />
-        <option value="$PROJECT_DIR$/lectures/13.http/index.html" />
-        <option value="$PROJECT_DIR$/lectures/13.http/2.httpserver.js" />
-        <option value="$PROJECT_DIR$/lectures/13.http/4.formidable.js" />
-        <option value="$PROJECT_DIR$/lectures/13.http/h5.html" />
-        <option value="$PROJECT_DIR$/lectures/13.http/5.formidablefiles.js" />
-        <option value="$PROJECT_DIR$/lectures/14.cookie&amp;session/1.cookie.js" />
-        <option value="$PROJECT_DIR$/lectures/14.cookie&amp;session/2.session.js" />
-        <option value="$PROJECT_DIR$/lectures/15.http_ext/cache.md" />
         <option value="$PROJECT_DIR$/lectures/15.http_ext/page.js" />
         <option value="$PROJECT_DIR$/lectures/15.http_ext/1.cache.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/script/src.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/static/js/somedir/somefile.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/static/css/index.css" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/client/js/comedir/come.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/client/js/somedir/a.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/1.prepare/sass/sass.md" />
+        <option value="E:/buyer.shop/skin/web.v1/line.html" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/dist/index.html" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/app/index.html" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/a.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/b.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/app/js/c.tmp.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/dist/html/index.html" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/history/12.gulpfile.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/gulpfile.js" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/app/less/page.less" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/2.start/package.json" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/readme.md" />
+        <option value="$PROJECT_DIR$/lectures/16.glup/1.prepare/browsesync/index.html" />
+        <option value="E:/buyer.shop/skin/web.v1/list.html" />
+        <option value="E:/static/master/buyer.shop/css/style.css" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/1.jade.html" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/1.html" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/1.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/2.jade.html" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/2.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/3.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/4.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/5.comment.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/5.val.js" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/5.val.json" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/6.var.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/7.extends.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/head.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/title.html" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/8.layout.jade" />
+        <option value="$PROJECT_DIR$/lectures/17.jade/child.jade" />
+        <option value="$USER_HOME$/Desktop/mui-master/examples/hello-mui/examples/picker.html" />
+        <option value="$USER_HOME$/Documents/Tencent Files/505566896/FileRecv/utils.js" />
+        <option value="$PROJECT_DIR$/lectures/18.ajax/index.js" />
+        <option value="$PROJECT_DIR$/lectures/18.ajax/book.json" />
+        <option value="$PROJECT_DIR$/lectures/18.ajax/server.js" />
+        <option value="$PROJECT_DIR$/lectures/18.ajax/index.html" />
+        <option value="$PROJECT_DIR$/lectures/19.form/server.js" />
+        <option value="$PROJECT_DIR$/lectures/19.form/1.index.html" />
+        <option value="$PROJECT_DIR$/lectures/19.form/readme.md" />
+        <option value="$PROJECT_DIR$/lectures/19.form/index.html" />
+        <option value="$PROJECT_DIR$/lectures/20.jsonp/index.html" />
+        <option value="$PROJECT_DIR$/lectures/20.jsonp/readme.md" />
       </list>
     </option>
   </component>
@@ -118,10 +170,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="859" />
-    <option name="y" value="350" />
-    <option name="width" value="1449" />
-    <option name="height" value="786" />
+    <option name="x" value="412" />
+    <option name="y" value="207" />
+    <option name="width" value="1332" />
+    <option name="height" value="729" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -146,6 +198,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -165,42 +218,128 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="20.jsonp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node201508" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lectures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="19.form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="F:/blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Jade" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js.buildTools.gulp.node_interpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="C:\Users\Administrator\AppData\Roaming\npm\node_modules\gulp" />
+    <property name="JavaScriptLanguageLevel" value="ES6" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\node201508\lectures\20.jsonp" />
+      <recent name="F:\node201508\lectures\19.form" />
+      <recent name="F:\node201508\lectures\19.form\js" />
+      <recent name="F:\node201508\lectures\19.form\css" />
+      <recent name="F:\node201508\lectures\16.glup\2.start\history" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\node201508\lectures\16.glup\2.start" />
       <recent name="F:\node201508\lectures\9.fs\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.1.cache.js">
-    <configuration default="false" name="2.url.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2.url.js" working-dir="$PROJECT_DIR$/lectures/13.http">
+  <component name="RunManager" selected="Node.js.server.js (1)">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/node201508/lectures/18.ajax/index.html">
       <method />
     </configuration>
-    <configuration default="false" name="5.formidablefiles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="5.formidablefiles.js" working-dir="$PROJECT_DIR$/lectures/13.http">
+    <configuration default="false" name="minify-html" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/lectures/16.glup/2.start/gulpfile.js</gulpfile>
+      <tasks>
+        <task>minify-html</task>
+      </tasks>
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <configuration default="false" name="1.cookie.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="1.cookie.js" working-dir="$PROJECT_DIR$/lectures/14.cookie&amp;session">
+    <configuration default="false" name="uglify" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/lectures/16.glup/2.start/gulpfile.js</gulpfile>
+      <tasks>
+        <task>uglify</task>
+      </tasks>
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <configuration default="false" name="2.session.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2.session.js" working-dir="$PROJECT_DIR$/lectures/14.cookie&amp;session">
+    <configuration default="false" name="minify" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/lectures/16.glup/2.start/gulpfile.js</gulpfile>
+      <tasks>
+        <task>minify</task>
+      </tasks>
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <configuration default="false" name="1.cache.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="1.cache.js" working-dir="$PROJECT_DIR$/lectures/15.http_ext">
+    <configuration default="false" name="server.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/lectures/19.form">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -241,6 +380,20 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/lectures/18.ajax">
+      <method />
+    </configuration>
+    <configuration default="false" name="server" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/lectures/16.glup/2.start/gulpfile.js</gulpfile>
+      <tasks>
+        <task>server</task>
+      </tasks>
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="4.formidable.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="4.formidable.js" working-dir="$PROJECT_DIR$/lectures/13.http">
       <method />
     </configuration>
@@ -259,26 +412,28 @@
     <configuration default="false" name="1.server.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="1.server.js" working-dir="$PROJECT_DIR$/lectures/3.http">
       <method />
     </configuration>
-    <list size="11">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.4.formidable.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.1.sync.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.2.readfile.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.index.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.1.requireHome.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.1.server.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.2.url.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.5.formidablefiles.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.1.cookie.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.2.session.js" />
-      <item index="10" class="java.lang.String" itemvalue="Node.js.1.cache.js" />
+    <list size="13">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="1" class="java.lang.String" itemvalue="Gulp.js.server" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.4.formidable.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.1.sync.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.2.readfile.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.index.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.1.requireHome.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.1.server.js" />
+      <item index="8" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="9" class="java.lang.String" itemvalue="Gulp.js.minify-html" />
+      <item index="10" class="java.lang.String" itemvalue="Gulp.js.uglify" />
+      <item index="11" class="java.lang.String" itemvalue="Gulp.js.minify" />
+      <item index="12" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.1.cache.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.2.session.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.1.cookie.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.5.formidablefiles.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.2.url.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="Gulp.js.minify" />
+        <item index="3" class="java.lang.String" itemvalue="Gulp.js.uglify" />
+        <item index="4" class="java.lang.String" itemvalue="Gulp.js.minify-html" />
       </list>
     </recent_temporary>
   </component>
@@ -320,29 +475,58 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="859" y="350" width="1449" height="786" extended-state="0" />
+    <frame x="412" y="207" width="1332" height="729" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21332389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1568779" sideWeight="0.48809522" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32830188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33280253" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31348512" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.323993" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36741215" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4713376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44833624" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19631468" sideWeight="0.5119048" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3139073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32791728" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33224222" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45008183" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2170706" sideWeight="0.48809522" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20053121" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19631468" sideWeight="0.5119048" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3139073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -374,365 +558,398 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/read2.txt">
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/2.start/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/2.start/dist/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/2.start/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/1.prepare/browsesync/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.6">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/static/master/buyer.shop/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.016666668">
+          <caret line="1085" column="60" selection-start-line="1085" selection-start-column="60" selection-end-line="1085" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/buyer.shop/skin/web.v1/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63793105">
+          <caret line="192" column="56" selection-start-line="192" selection-start-column="45" selection-end-line="192" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/gulpwebapp/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/read.txt">
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/gulpwebapp/app/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/gulpwebapp/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20706455">
+          <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/gulpwebapp/gulpfile.babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/gulpwebapp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13032886">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/16.glup/gulpwebapp/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.409257">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/6.var.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.75">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/1.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.1">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.3">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/3.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/5.comment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/5.val.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/6.write.js">
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/6.var.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5092251">
-          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        <state vertical-scroll-proportion="-5.6">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/7.copy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.39483395">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/5.open.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5092251">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/8.directory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4595588">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/9.watchfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5367647">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5206612">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/9.fs/msg.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/10.path/1.path.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2453271">
-          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/11.stream/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/11.stream/2.write.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/11.stream/write.txt">
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/7.extends.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.WebStorm10/system/extLibs/nodejs-v4.2.1-src/core-modules-sources/lib/fs.js">
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/7.extends.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.94375">
-          <caret line="1793" column="20" selection-start-line="1793" selection-start-column="9" selection-end-line="1793" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.33211678">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/11.stream/1.readstream.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.275">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/11.stream/4.readable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2625">
-          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/11.stream/3.writesteam.js">
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/head.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/11.stream/5.readable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.059907835">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/12.tcp/1.tcp_server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8064516">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/3.http/2.server.js">
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/title.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/3.http/3.server.js">
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/child.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25132978">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/child.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18797953">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/8.layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1342711">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/3.http/1.server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/12.tcp/3.downserver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53203344">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/12.tcp/2.chatserver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41504177">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/3.http/http.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6666667">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/1.httpserver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.WebStorm10/system/extLibs/nodejs-v4.2.1-src/core-modules-sources/lib/internal/util.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6238806">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.WebStorm10/system/extLibs/nodejs-v4.2.1-src/core-modules-sources/lib/net.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3258427">
-          <caret line="1062" column="13" selection-start-line="1062" selection-start-column="13" selection-end-line="1062" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/reg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7666667">
-          <caret line="10" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/formidable/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.495283">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/2.url.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12804878">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/3.httpjsonclient.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6178862">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/2.httpserver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44512194">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/8.buffer/2.max.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/8.buffer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="36" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/7.module/1.home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/8.buffer/1.readfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26006192">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/4.formidable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94427246">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/5.formidablefiles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42414862">
-          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/upload/T5JCF7G9U6X2_1680x1050.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/upload/23414eb94d9c26093.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/13.http/h5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.5">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/14.cookie&amp;session/1.cookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60103625">
-          <caret line="54" column="49" selection-start-line="53" selection-start-column="8" selection-end-line="54" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/14.cookie&amp;session/2.session.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/15.http_ext/page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/15.http_ext/1.cache.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65488565">
-          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lectures/15.http_ext/cache.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18543047">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Tencent Files/505566896/FileRecv/WebGl初级分享/WebGl初级分享/demo/练习/3D矩形.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45053634">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="16" />
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/buyer/skin/member.center.v1/line.html">
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/4.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17401668">
-          <caret line="609" column="29" selection-start-line="609" selection-start-column="29" selection-end-line="609" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding>
-            <marker date="1456969574363" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675828432" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675828432" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675828432" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675828432" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675828432" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675828432" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675828432" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Tencent Files/505566896/FileRecv/WebGl初级分享/WebGl初级分享/demo/练习/地球/地球和月球-new.html">
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/2.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61538464">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <marker date="1457675449711" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675449711" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675449711" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675449711" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1457675449711" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/505566896/FileRecv/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="298" column="6" selection-start-line="298" selection-start-column="6" selection-end-line="298" selection-end-column="6" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/17.jade/5.comment.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5012563">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/body-parser/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3598901">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/18.ajax/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/18.ajax/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/19.form/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/19.form/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/19.form/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/18.ajax/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4393204">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/18.ajax/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/19.form/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22888283">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/19.form/1.index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/20.jsonp/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/19.form/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/19.form/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64615387">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/20.jsonp/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.214286">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/20.jsonp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.9">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lectures/20.jsonp/jsop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
